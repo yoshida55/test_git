@@ -1,4 +1,5 @@
 gitの練習をしていきます。
 
-
-aaaa
+・git add
+・git commit
+・git rm
